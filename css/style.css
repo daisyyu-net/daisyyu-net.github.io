@@ -1,0 +1,49 @@
+#daisy_say{
+    float:left;
+    height:400px;
+    width:400px;
+    border-style: outset;
+    position:relative; left:30%; 
+    position:relative; top:20%; 
+}
+#img_daisy{
+    float:left;
+    height:400px;
+    width:400px;
+}
+#img_donald{
+    float:left;
+    height:400px;
+    width:400px;
+    margin-left:250px;
+}
+#donald_say{
+    float:left;
+    height:400px;
+    width:400px;
+    border-style: outset;
+    position:relative; left:10%; 
+    position:relative; top:20%; 
+}
+#happy_birthday{
+    height:400px;
+    width:400px;
+    position:relative; left:39%; 
+    position:relative; top:20%; 
+}
+#cake{
+    position:relative; left:36%; 
+    position:relative; top:10%; 
+}
+#four{
+    height:600px;
+    width:800px;
+    position:relative; left:19%; 
+    position:relative; top:20%; 
+}
+#pwd{
+    height:600px;
+    width:800px;
+    position:relative; left:19%; 
+    position:relative; top:20%; 
+}
